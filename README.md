@@ -2,7 +2,7 @@
 # Desarrollo de Aplicaciones Web
 ## NOMBRES_DE_LOS_MIEMBROS
 
-##Juan Pablo Restrepo - 0000305110
+## Juan Pablo Restrepo - 0000305110
 ## Diego Norberto Díaz Algarin - 0000307595
 
 ### Universidad de La Sabana
